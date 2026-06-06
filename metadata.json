@@ -1,0 +1,6 @@
+{
+  "name": "راديو الشرق",
+  "description": "تطبيق راديو بث مباشر لأقوى الإذاعات العربية والقرآن الكريم مع ميزات المفضلة ومؤقت النوم والتشغيل في الخلفية بصوت نقي وتصميم عصري.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
